@@ -18,3 +18,12 @@
 * HTML&CSS
 * JS
 * Python(Minimal Knowledge)
+
+## Experience
+[My first and last serious prioject](https://a-pt.by/)
+
+## Education 
+I took courses on *HTML&CSS&JS* in **ITeen Academy**
+
+## English
+**A2**
