@@ -21,3 +21,18 @@ header {
 main {
   background-color: ivory;
 }
+h1 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover { 
+    text-decoration: underline;
+   }
+
+p{
+	padding-left: 25px;
+}
