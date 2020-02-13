@@ -36,3 +36,14 @@ a:hover {
 p{
 	padding-left: 25px;
 }
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.blc {
+  display: flex;
+  flex-direction: column;
+}
