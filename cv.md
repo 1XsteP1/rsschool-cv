@@ -17,7 +17,8 @@
 
 * HTML&CSS
 * JS
-* Python(Minimal Knowledge)
+* Python
+* С++
 
 ## Experience
 [My first and last serious prioject](https://a-pt.by/)
